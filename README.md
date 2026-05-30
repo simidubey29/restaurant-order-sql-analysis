@@ -150,7 +150,7 @@ This performs:
 
 ## 4️⃣ Top Spending Customer
 
-![Top Spending Customer](screenshots/top_cuotomer.png)
+![Top Spending Customer](screenshots/top_cuatomer.png)
 
 ---
 
@@ -165,8 +165,6 @@ This performs:
 ---
 
 # 💡 Future Improvements
-
-You can improve this project by adding:
 
 * Payment table
 * Employee management
