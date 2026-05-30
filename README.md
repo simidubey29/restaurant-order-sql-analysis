@@ -150,7 +150,7 @@ This performs:
 
 ## 4️⃣ Top Spending Customer
 
-![Top Spending Customer](screenshots/top_customer.png)
+![Top Spending Customer](screenshots/top_cuotomer.png)
 
 ---
 
